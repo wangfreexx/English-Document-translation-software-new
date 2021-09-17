@@ -1,6 +1,7 @@
 英文即时划词翻译软件
 =======
 本项目fork了但又没有整体fork，所以未能直接分支，另外开了一个
+
 原始地址
 <[git@github.com:zhangcf0110/English-Document-translation-software.git](https://github.com/zhangcf0110/English-Document-translation-software)>
 
@@ -14,7 +15,7 @@
 优化或者添加了以下东西：
 
 * 添加了百度翻译和腾讯翻译
-* 打包了exe放在dist下
+* 打包了exe放在dist下，由于单个文件太大，因此将其分卷压缩了，解压到dist目录即可使用
 
 
 
